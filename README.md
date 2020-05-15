@@ -94,6 +94,10 @@ callbacks = [
 
 数据集较大，建议使用GPU训练。
 
+# tensorboard查看训练20轮后的情况：
+![Image text](https://github.com/JiJiFlyer/tf2_emnist_test/blob/master/imgs/20epochs.png)
+
+
 
 ## 模型测试
 将待识别图片放入assets（支持白底彩字），运行demo.py即可，默认识别PNG，想识别jpg修改一下demo.py就可以
