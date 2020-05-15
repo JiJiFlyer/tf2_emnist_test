@@ -109,3 +109,4 @@ if __name__ == '__main__':
         cv2.waitKey(0)
 ```
 运行时会逐一弹窗，并打印识别的字，文件夹中会生成由字母本身命名的图片。
+![Image text](https://github.com/JiJiFlyer/tf2_emnist_test/blob/master/imgs/demo.png)
