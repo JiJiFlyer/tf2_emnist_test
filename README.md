@@ -94,7 +94,7 @@ callbacks = [
 
 数据集较大，建议使用GPU训练。
 
-# tensorboard查看训练20轮后的情况：
+### tensorboard查看训练20轮后的情况：
 ![Image text](https://github.com/JiJiFlyer/tf2_emnist_test/blob/master/imgs/20epochs.png)
 
 
